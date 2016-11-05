@@ -13,3 +13,6 @@ It keeps some grouped changes together, away from other changes. Branches help f
 How do the diagrams help you visualize the branch structure?
 They show the commits in the different branches with their respective parent commits.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging combines the features of two branches. After that, the merged into branch does not exists, this is illustrated in the diagram.
+
