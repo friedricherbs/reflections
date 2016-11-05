@@ -1,3 +1,15 @@
 What happens when you initialize a repository? Why do you need to do it?
 Git creates a new empty repository that will be tracked subsequently. It is the first step for version control.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a place to bundle some future commits logically. These files are between the working directory and the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area collects all changes until you submit them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It keeps some grouped changes together, away from other changes. Branches help for experimental versions.
+
+How do the diagrams help you visualize the branch structure?
+They show the commits in the different branches with their respective parent commits.
+
