@@ -13,3 +13,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 One could use a central server to exchange files. Furthermore, there a tools like beyond compare for file comparison and merging. 
 The tool chain would maybe be easier, however there would be no official versions, just the versions from the developers.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+First the main branch should always work. Second a separate branch could contain a feature on which you are not sure if you really want to have it.
